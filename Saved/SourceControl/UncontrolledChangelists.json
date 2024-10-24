@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/Project/Blueprints/BPI_Switchable.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/Project/Blueprints/BP_Button.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/Project/Blueprints/BP_Object.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/69/DMPEJM8V3AFV1T4XCJ8Z07.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/P2/KTJ389RPEHKNA017AOES0V.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/A0/SIZACB125PWLOW0671DBDU.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/V2/F7IL0H1LNSU156HBMI0JZN.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/20/3P504VSH5O8CXX8A2NFBD6.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SX/XK0WJL62MLQCCFPPS1MSI0.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0M/CHD7TIUGI9IKBR5F4M0WJB.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y1/Z2S1K16RZNOOAK3B6GYXXE.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/RY/A0SNX4R8SP6V7YI6ZMN1N3.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/Project/Blueprints/WBP_ButtonOnOff.uasset",
+				"F:/UEProjects/Game_2/Practic_UMG_4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
